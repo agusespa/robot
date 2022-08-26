@@ -1,5 +1,5 @@
-# Welcome to your robot controller!
-A CLI app to make it move to your will.  
+# Welcome to the Devoteam robot controller!
+A CLI app for making your new robot move to your will.  
 ### Build and Run
 To use the app, you first have to clone or download this repository to your machine.  
 To compile it, execute Maven package command at the project's root directory:
